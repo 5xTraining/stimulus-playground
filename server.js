@@ -12,5 +12,5 @@ app.use(express.static(publicPath))
 app.use(webpackMiddleware(webpack(webpackConfig)))
 
 app.listen(port, () => {
-  console.log(`Listening on port ${port}`)
+  console.log(`Listening on port ${port} now`)
 })
