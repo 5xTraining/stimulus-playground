@@ -1,4 +1,4 @@
-# Stimulus Playground
+# Stimulus Playground (v3.0.0)
 
 - [The Stimulus Handbook](https://stimulus.hotwired.dev/handbook/introduction)
 
@@ -10,4 +10,7 @@
 - Run `yarn dev` to launch a local development environment.
 - Have FUN!
 
+or just click [here](https://stackblitz.com/github/5xTraining/stimulus-playground) to launch a fork project on Stackblitz, which is awesome easy!
+
 by eddie@5xcampus.com
+
